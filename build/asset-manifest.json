@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-expense-manager/static/css/main.3c4c5984.chunk.css",
+    "main.js": "/react-expense-manager/static/js/main.f0cace49.chunk.js",
+    "main.js.map": "/react-expense-manager/static/js/main.f0cace49.chunk.js.map",
+    "runtime-main.js": "/react-expense-manager/static/js/runtime-main.4e531d3c.js",
+    "runtime-main.js.map": "/react-expense-manager/static/js/runtime-main.4e531d3c.js.map",
+    "static/js/2.a2617c54.chunk.js": "/react-expense-manager/static/js/2.a2617c54.chunk.js",
+    "static/js/2.a2617c54.chunk.js.map": "/react-expense-manager/static/js/2.a2617c54.chunk.js.map",
+    "index.html": "/react-expense-manager/index.html",
+    "static/css/main.3c4c5984.chunk.css.map": "/react-expense-manager/static/css/main.3c4c5984.chunk.css.map",
+    "static/js/2.a2617c54.chunk.js.LICENSE.txt": "/react-expense-manager/static/js/2.a2617c54.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e531d3c.js",
+    "static/js/2.a2617c54.chunk.js",
+    "static/css/main.3c4c5984.chunk.css",
+    "static/js/main.f0cace49.chunk.js"
+  ]
+}
