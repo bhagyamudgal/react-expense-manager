@@ -8,7 +8,7 @@ URL - https://bhagyamudgal.github.io/react-expense-manager/
 
 ## Tech Stack
 
-**Client:** React
+**Client:** ReactJS
 
   
 ## Screenshots
